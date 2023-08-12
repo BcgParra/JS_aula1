@@ -1,0 +1,11 @@
+body{
+    font-size: 14pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+button{
+    font-size: 18pt;
+    color: brown;
+    background-color: rgb(163, 163, 232);
+}
